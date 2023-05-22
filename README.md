@@ -4,5 +4,5 @@
 ###### mkdir -p ~/catkin_ws/src
 ###### clone src in src folder
 ###### catkin_make in catkin_ws folder
-###### source develop/setup.bash
+###### source devel/setup.bash
 ###### rosrun dvs_to_rosbag h5_to_rosbag.py
